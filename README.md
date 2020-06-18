@@ -15,22 +15,28 @@
 <p> <strong>Odia Translation</strong></p>
 <ul>
    <li>Type &quot;<a href="http://localhost/Odia_Translation/">http://localhost/Odia_Translation/</a>&quot; in the browser and press Enter. You should see the following screenshot on the screen.</li>
-   <img src="/screenshots/export_homepage_google_odia.png" width="1000" height="500"/>
+   <img src="/screenshots/export_homepage_google_odia.png"/>
    <li>Users can type an URL to translate into the Odia language by pressing the &quot;<strong>Translate to ODIA</strong>&quot; button.</li>
+   <img src="/screenshots/export_input_url_google_odia.png" />
 </ul>
 <ul>
    <li>
       <p>In this example- we have used &quot;<strong><em><a href="https://www.news18.com">https://www.news18.com</a></em></strong>&quot; to translate their home page but Users can use any &quot;URL&quot; to translate.</p>
    </li>
+   <img src="/screenshots/export_news_eng.png" />   
    <li>
       <p>The first translate result will show the dom extraction table with <strong>Tag Name</strong> and translated <strong>Tag Value</strong>.</p>
    </li>
+   <img src="/screenshots/export_translate_dom_table.png" />
    <li>Then the user can click on &quot;<strong><em>Click here to see the Translated Webpage</em></strong>&quot; button to the real translated webpage on the screen.</li>
+   <img src="/screenshots/export_news_ori.png" />
 </ul>
 <p><strong>ParserTool</strong></p>
 <ul>
    <li>Users can click on the &quot;<strong>HTML Parser Tool</strong>&quot; button from the application home page to use the ParserTool.</li>
+   <img src="/screenshots/export_parser_tool_homepage.png" />
    <li>Enter the local directory path that has a large collection of <strong>HTML</strong> and <strong>XML</strong> files and press the &quot;<strong><em>Extract the Directory</em></strong>&quot; button.</li>
+   <img src="/screenshots/export_parser_tool_extract.png"/>
    <li>The extracted text results are written to several &quot;<strong><em>Result-[num].txt</em></strong>&quot; files inside Result folder in ParserTool.</li>
 </ul>
 <h2 id="-how-does-it-work-"><strong>How does it work?</strong></h2>
@@ -43,10 +49,13 @@
 </blockquote>
 <p><strong>Step - 1</strong>
    The user can the parser table with <strong><em>Tag Name</em></strong> and <strong><em>Tag Value</em></strong> with the total count of tags in a separate view.
+   <img src="/screenshots/export_step1.png" />
    <strong>Step - 2</strong>
    After clicking the &quot;<strong><em>Proceed To Step.2</em></strong>&quot; button, the user can see the possible number of lines that can be formed from the extracted texts.
+   <img src="/screenshots/export_step2.png" />
    <strong>Step - 3</strong>
    Then, in the last step, the complete list of lines can be shown with the total number of lines count in a separate view.
+   <img src="/screenshots/export_step3.png" />
 </p>
 <h2 id="important-php-apis">Important PHP APIs</h2>
 <p>There are certain PHP APIs the application has used to analyze the DOM input and applied logic to provide Translation on the webpage.</p>
@@ -58,6 +67,8 @@
 </ol>
 <h2 id="dictionary">Dictionary</h2>
 <p>There is a small collection of the dictionary (<strong><em>912 words</em></strong>) has been used in this application to replace &quot;<strong>English</strong>&quot; words into &quot;<strong>Odia</strong>&quot;. The dictionary follows <strong><em>Unicode</em></strong>  <strong><em>Collation</em></strong> in the SQL table for the &quot;Odia&quot; word column.</p>
+<h2 id="notice">Notice</h2>
+<p>The project is no longer maintained or supported.</p>
 <h2 id="references">References</h2>
 <ol>
    <li><strong>Odia Language</strong> - <a href="https://en.wikipedia.org/wiki/Odia_language">https://en.wikipedia.org/wiki/Odia_language</a></li>
@@ -66,3 +77,5 @@
    <li><strong>PHP API</strong> - <a href="https://www.php.net/manual/en/mysqlinfo.api.choosing.php">https://www.php.net/manual/en/mysqlinfo.api.choosing.php</a></li>
    <li><strong>Document Object Model</strong> - <a href="https://en.wikipedia.org/wiki/Document_Object_Model">https://en.wikipedia.org/wiki/Document_Object_Model</a></li>
 </ol>
+<h2>License</h2>
+<p>This project is licensed under the <a href="https://github.com/Deeptiman/php-dom-parser-translation-tool/blob/master/LICENSE">MIT License</a></p>

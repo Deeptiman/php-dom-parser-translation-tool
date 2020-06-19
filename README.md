@@ -1,4 +1,5 @@
 <h1 id="php-dom-parser-translation-tool">php-dom-parser-translation-tool</h1>
+<p><img src="https://img.shields.io/maintenance/no/2020" alt="Maintenance"></p>
 <p>This project was planned to demonstrate translation in live web pages by parsing through <strong>HTML DOM</strong> and extracting the text element and match them with an <strong>English to Odia</strong> dictionary that is stored in a local database. The complete parsing result will preview as a translated webpage for a website. </p>
 
 <h1 id="teams">Teams</h1>

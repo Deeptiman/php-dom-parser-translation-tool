@@ -1,5 +1,5 @@
 <h1 id="php-dom-parser-translation-tool">php-dom-parser-translation-tool</h1>
-<p><img src="https://img.shields.io/maintenance/no/2014" alt="Maintenance"></p>
+<p><img src="https://img.shields.io/maintenance/no/2014" alt="Maintenance">     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Deeptiman/php-dom-parser-translation-tool"></p>
 <p>This project was planned to demonstrate translation in live web pages by parsing through <strong>HTML DOM</strong> and extracting the text element and match them with an <strong>English to Odia</strong> dictionary that is stored in a local database. The complete parsing result will preview as a translated webpage for a website. </p>
 
 <h1 id="teams">Teams</h1>
@@ -30,7 +30,7 @@
 </ul>
 <ul>
    <li>
-      <p>In this example- we have used &quot;<strong><em><a href="https://www.news18.com">https://www.news18.com</a></em></strong>&quot; to translate their home page but Users can use any &quot;URL&quot; to translate.</p>
+      <p>In this example- we have used &quot;<strong><em><a href="https://www.news18.com">https://www.news18.com</a></em></strong>&quot; to translate their home page but Users can use any &quot;URL&quot; to translate.</p> 
    </li>
    <img src="/screenshots/export_news_eng.png" />   
    <li>

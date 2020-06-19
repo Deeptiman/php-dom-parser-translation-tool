@@ -1,9 +1,12 @@
 <h1 id="php-dom-parser-translation-tool">php-dom-parser-translation-tool</h1>
 <p>This project was planned to demonstrate translation in live web pages by parsing through <strong>HTML DOM</strong> and extracting the text element and match them with an <strong>English to Odia</strong> dictionary that is stored in a local database. The complete parsing result will preview as a translated webpage for a website. </p>
 
-# Teams
- 1. [Anshuman Pattnaik](https://github.com/anshumanspattnaik)   ![GitHub followers](https://img.shields.io/github/followers/anshumanpattnaik?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/anspattnaik?style=social)
- 2. [Deeptiman Pattnaik](https://github.com/Deeptiman)    ![GitHub followers](https://img.shields.io/github/followers/Deeptiman?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/deeptimancode?style=social)
+<h1 id="teams">Teams</h1>
+<ol>
+<li><a href="https://github.com/anshumanpattnaik" target="_blank">Anshuman Pattnaik</a>  <a href="https://github.com/anshumanpattnaik">  <img src="https://img.shields.io/github/followers/anshumanpattnaik?style=social" alt="GitHub followers"> </a> <a href="https://twitter.com/anspattnaik"><img src="https://img.shields.io/twitter/follow/anspattnaik?style=social" alt="Twitter Follow"></a></li>
+<li><a href="https://github.com/Deeptiman" target="_blank">Deeptiman Pattnaik</a>  <a href="https://github.com/Deeptiman">  <img src="https://img.shields.io/github/followers/Deeptiman?style=social" alt="GitHub followers"> </a> <a href="https://twitter.com/deeptimancode"><img src="https://img.shields.io/twitter/follow/deeptimancode?style=social" alt="Twitter Follow"></a></li>
+</ol>
+
 
 <h1 id="parsertool">ParserTool</h1>
 <p>The tool will work to extract texts from a local directory that has collections of <strong>XML</strong> and <strong>HTML</strong> files. The tool will write the output in a text file line by line for each folder. The textual results will be useful to train in a <em>Statistical Machine Translation Engine</em> (<strong><a href="http://www.statmt.org/moses/">Moses</a></strong>) for translation accuracy purposes.</p>

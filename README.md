@@ -3,8 +3,8 @@
 
 <h1 id="teams">Teams</h1>
 <ol>
-<li><a href="https://github.com/anshumanpattnaik" target="_blank">Anshuman Pattnaik</a>  <a href="https://github.com/anshumanpattnaik">  <img src="https://img.shields.io/github/followers/anshumanpattnaik?style=social" alt="GitHub followers"> </a> <a href="https://twitter.com/anspattnaik"><img src="https://img.shields.io/twitter/follow/anspattnaik?style=social" alt="Twitter Follow"></a></li>
-<li><a href="https://github.com/Deeptiman" target="_blank">Deeptiman Pattnaik</a>  <a href="https://github.com/Deeptiman">  <img src="https://img.shields.io/github/followers/Deeptiman?style=social" alt="GitHub followers"> </a> <a href="https://twitter.com/deeptimancode"><img src="https://img.shields.io/twitter/follow/deeptimancode?style=social" alt="Twitter Follow"></a></li>
+<li><a href="https://github.com/anshumanpattnaik" target="_blank">Anshuman Pattnaik</a>  <a href="https://github.com/anshumanpattnaik" target="_blank">  <img src="https://img.shields.io/github/followers/anshumanpattnaik?style=social" alt="GitHub followers"> </a> <a href="https://twitter.com/anspattnaik" target="_blank"><img src="https://img.shields.io/twitter/follow/anspattnaik?style=social" alt="Twitter Follow"></a></li>
+<li><a href="https://github.com/Deeptiman" target="_blank">Deeptiman Pattnaik</a>  <a href="https://github.com/Deeptiman" target="_blank">  <img src="https://img.shields.io/github/followers/Deeptiman?style=social" alt="GitHub followers"> </a> <a href="https://twitter.com/deeptimancode" target="_blank"><img src="https://img.shields.io/twitter/follow/deeptimancode?style=social" alt="Twitter Follow"></a></li>
 </ol>
 
 
